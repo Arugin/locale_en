@@ -1,0 +1,199 @@
+{
+   "tutorial_1_name": "The beginning",
+   "tutorial_1_description": "Welcome! Welcome to the ruins of cosmodrome <color=#E4F2FF>{0}</color>. You have chosen, or been chosen... Wait a minute, this is wrong script. \n\nHello! My name is <color=#E4F2FF>Arugin</color>, and I am the creator of this game. I've prepared this small tutorial to help you to get comfortable with the game. If you want to learn everything by yourself or just forgot to untick \"tutorial\" toggle, you can interrupt it now. Otherwise press the <color=#B4F87F>\"Continue\"</color> button.",
+   
+   "tutorial_2_name": "Camera basics 1/2",
+   "tutorial_2_description": "Let's get started. This place is a ruins of the once great spaceport. Only several buildings are functioning now. You will have an opportunity to make a modern space center from this place in near future. But we will talk about this later. \n\nFirtly, you shoud learn how to control the camera in the spaceport. Use <color=#E4F2FF>{0}</color>, <color=#E4F2FF>{1}</color>, <color=#E4F2FF>{2}</color> and <color=#E4F2FF>{3}</color> or move the cursor to the edge of screen, to move camera around.",
+   "tutorial_2_goal": "Move camera around a bit.",
+   
+   "tutorial_3_name": "Camera basics 2/2",
+   "tutorial_3_description": "You can zoom in or zoom out the camera using <color=#E4F2FF>{0}</color>.",
+   "tutorial_3_goal": "Try to use camera zoom.",
+   
+   "tutorial_4_name": "Into the assembly shop",
+   "tutorial_4_description": "Great! Let's visit assembly shop now.",
+   "tutorial_4_goal": "Find assembly shop and click on it.",
+   
+   "tutorial_5_name": "Assembly shop",
+   "tutorial_5_description": "This is assembly shop. You will create and edit spacecrafts here. Let's create one.",
+   "tutorial_5_goal": "Press \"Create New Spacecraft\" button.",
+   
+   "tutorial_6_name": "Mistakes were made",
+   "tutorial_6_description": "No, this is a wrong building. Press <color=#E4F2FF>{0}</color> to leave it.",
+   "tutorial_6_goal": "Leave the building.",
+   
+   "tutorial_7_name": "The foundation",
+   "tutorial_7_description": "Let's begin our spacecraft construction by placing the command pod.",
+   "tutorial_7_goal": "Click on the command pod on the right panel.",
+   
+   "tutorial_8_name": "A bit more about controls",
+   "tutorial_8_description": "The first rocket part is always placed automatically in the middle of assembly shop. Command pod is a brain of the rocket and one of the most important parts of any spacecraft. You will lost control over the rocket, if somehting happens to it. \n\nBut before we continue, I would like to tell you about camera controls in assembly shop. Hold <color=#E4F2FF>{0}</color> and drag to look around.",
+   "tutorial_8_goal": "Rotate the camera.",
+
+   "tutorial_9_name": "And again...",
+   "tutorial_9_description": "And, to make it clear: here and everywhere in the game you can zoom in and out camera using <color=#E4F2FF>{0}</color>. Let's do this as a tutorial step one last time.",
+   "tutorial_9_goal": "Use the camera zoom again.",  
+   
+   "tutorial_10_name": "And last time",
+   "tutorial_10_description": "Hold <color=#E4F2FF>{0}</color> and rotate <color=#E4F2FF>{1}</color>, to move camera along the building.",
+   "tutorial_10_goal": "Move camera along building.",
+   
+   "tutorial_11_name": "Connections",
+   "tutorial_11_description": "Nice. Let's continue rocket construction. Every rocket part has a bunch of attachments. There are two types of attachments: connectors and slots. To connect the two parts, one must have <color=#E4F2FF>connectors</color>, and the other <color=#E4F2FF> sockets </color> of the corresponding shape. The connection rules are pretty simple: <color=#B4F87F>every connector should be placed into appropriate slot</color> and <color=#B4F87F>parts should not overlap</color>.",
+
+   "tutorial_12_name": "Practice time",
+   "tutorial_12_description": "So, I gave you new rocket part: <color=#E4F2FF>{0}</color>. Command pods are usually not attached directly to the fuel system, because of safety reasons. Adapters and decouplers are used for that purpose. I have added adapter to available parts. Click on it and move to the command pod. When it will snap to pod, press <color=#E4F2FF>{1}</color>.",
+   "tutorial_12_goal": "Attach adapter to the rocket.",
+   
+   "tutorial_13_name": "Adding fuel 1/2",
+   "tutorial_13_description": "Attach <color=#E4F2FF>{0}</color> in the same way.",
+   "tutorial_13_goal": "Attach fuel tank to the rocket.",
+   
+   "tutorial_14_name": "Adding fuel 2/2",
+   "tutorial_14_description": "You can perform a lot of tasks in assembly shop using hotkeys. Press <color=#E4F2FF>{0}</color> to select last rocket part.",
+   "tutorial_14_goal": "Attach one more fuel tank to the rocket.",
+   
+   "tutorial_15_name": "Two important parts",
+   "tutorial_15_description": "It's time to add engines. Engine is the \"heart\" of the rocket. It will simply not move without engines. It is very important to place rocket engines symmerically on the spacecraft, otherwise created torque will immediately crash it. If engines will not attach properly, change the angle of the camera or zoom in/out it.",
+   "tutorial_15_goal": "Attach two engines to the rocket, placing them symmerically as it is shown on the image bellow.",
+   
+   "tutorial_17_name": "Give a rocket bad name...",
+   "tutorial_17_description": "Give your rocket a name. <color=#E4F2FF>Double click</color> on the current name, to rename it.",
+   "tutorial_17_goal": "Rename the rocket.",
+   
+   "tutorial_19_name": "Safety is the king",
+   "tutorial_19_description": "There is only one step left before the launch.",
+   "tutorial_19_goal": "Save the rocket.", 
+   
+   "tutorial_22_name": "Let's go!",
+   "tutorial_22_description": "Finally. Press <color=#E4F2FF>Launch Rocket</color> button. It will take some time to prepare the launch, so bear with me.",
+   
+   "tutorial_26_name": "The launch base",
+   "tutorial_26_description": "Your rocket is on launchpad now. Nothing can happen to it until you will turn on engines. Preparations for the flight are pretty simple. Firstly, you will need to set a throttle. To change the trottle use two buttons: <color=#E4F2FF>{0}</color> increase it and <color=#E4F2FF>{1}</color> to decrease. Current throttle is displayed on the right.",   
+   "tutorial_26_goal": "Set the throttle to just over 50%.", 
+   
+   "tutorial_30_name": "The power of Doctor Who",
+   "tutorial_30_description": "You need to know one more thing. There is a time control panel on the left. You can change the speed of time in any moment, using buttons from <color=#E4F2FF>{0}</color> to <color=#E4F2FF>{1}</color> or by pressing on the arrow on the panel. You can fast forward time up to one day in a second. There is only one limitation: you can fast forward time only up to 10x if rocket engines are working or spacecraft is flying in the atmosphere.",
+   "tutorial_30_goal": "Rewind the time one hour ahead.",
+   
+   "tutorial_32_name": "Lift off!",
+   "tutorial_32_description": "So, press <color=#E4F2FF>{0}</color> to run engines and flight will begin.",
+   "tutorial_32_goal": "Turn on rocket engines.",
+
+   "tutorial_36_name": "Copy and paste",
+   "tutorial_36_description": "We will need to make significant changes to the design of the spacecraft you've created. That kind of change is best made on a copy of it. To make a copy, select your rocket in the list and click the <color=#E4F2FF>\"Copy selected rocket\"</color> button on the top panel.",
+   "tutorial_36_goal": "Copy rocket.",
+
+   "tutorial_40_name": "Second round",
+   "tutorial_40_description": "You can rename the created rocket by double-clicking on its name. Click on <color=#E4F2FF>\"Edit\"</color> next to the name of the spacecraft, when ready.",
+   "tutorial_40_goal": "Go to rocket edit mode.",
+
+   "tutorial_45_name": "Stay focused",
+   "tutorial_45_description": "You can quickly move the camera around the assembly, by holding <color=#E4F2FF>{0}</color> and <color=#E4F2FF> clicking on the parts of the rocket</color>. That way you will instantly point the camera at them.",
+   "tutorial_45_goal": "Move the camera focus between different rocket parts.",
+
+   "tutorial_50_name": "Redundant parts",
+   "tutorial_50_description": "During the experiments in the assembly shop you will often make mistakes. Let's make one now, too. Select <color=#E4F2FF>{0}</color> and place it somewhere near the rocket.",
+   "tutorial_50_goal": "Place the part somewhere on the scene.",
+
+   "tutorial_55_name": "Just cancel it",
+   "tutorial_55_description": "Note that this part has an orange outline. This means that the part is not attached to the rocket. Let's imagine that you want to cancel the last committed action. Press <color=#E4F2FF>{0}</color> ะตo do this.",
+   "tutorial_55_goal": "Cancel the last action.",
+
+   "tutorial_60_name": "I didn't want to cancel it",
+   "tutorial_60_description": "Reverse operation is also supported. If you change your mind about undoing the last action, just press <color=#E4F2FF>{0}</color>.",
+   "tutorial_60_goal": "Cancel the cancellation.",
+
+   "tutorial_65_name": "Manual control",
+   "tutorial_65_description": "The selected rocket part can be rotated. Click on it and press <color=#E4F2FF>{0}</color>, <color=#E4F2FF>{1}</color>, <color=#E4F2FF>{2}</color>, <color=#E4F2FF>{3}</color>, and <color=#E4F2FF>{4}</color> and <color=#E4F2FF>{5}</color> to do this. You can rotate <color=#E4F2FF>{6}</color> a bit, and when you get tired, drag it to the parts panel to remove it manually.",
+   "tutorial_65_goal": "Remove the part.",
+
+   "tutorial_70_name": "Divide and conquer",
+   "tutorial_70_description": "Let's get back to the rocket construction and attach <color=#E4F2FF>{0}</color>. It allows you to separate the rocket into stages, which I will tell you about later. Pick it out and attach it to the same place where the engines are now.",
+   "tutorial_70_goal": "Attach decoupler to the rocket.",
+
+   "tutorial_75_name": "Adding fuel 3/3",
+   "tutorial_75_description": "Now we can add even more fuel. I gave you access to <color=#E4F2FF>{0}</color>. This is a special part, because it can be additionally configured before attaching. Such parts are indicated by a gear symbol. In this case you do not need to change anything, just attach two fuel tanks with default configuration to the rocket.",
+   "tutorial_75_goal": "Attach three fuel tanks to the rocket.",
+
+   "tutorial_80_name": "We need more power",
+   "tutorial_80_description": "The final chord! It's time for <color=#E4F2FF>{0}</color>. Note, that this engine is larger and more powerful than the ones you installed before. However, it takes more slots, so you can't attach two of those on the tank anymore",
+   "tutorial_80_goal": "Attach the engine to the rocket.",
+
+   "tutorial_85_name": "The wall of text 1/2",
+   "tutorial_85_description": "The panel on the left contains rocket stages. <color=#E4F2FF>Stage is a group of parts</color> to which commands will be sent during the flight. Stages are activated in numerical order (from bottom to top). For example, engines will start on activation and decouplers will separate parts from each other.",
+
+   "tutorial_86_name": "The wall of text 2/2",
+   "tutorial_86_description": "During spacecraft construction, parts are added to the stages automatically, but not always correctly. Therefore, they should always be checked for correctness before rocket launch. <color=#E4F2FF>If you hover the mouse over the stage</color>, all the parts contained in it will be highlighted on the rocket. You can change order of stages using drag and drop. You can also move the parts between them in the same way. This time the system has placed them correctly, so <color=#B4F87F> you do not need to change anything</color>.",
+
+   "tutorial_90_name": "Let's go v2.0",
+   "tutorial_90_description": "Let's test our creation now.",
+   "tutorial_90_goal": "Save and launch the rocket.",
+
+   "tutorial_95_name": "Where am I?",
+   "tutorial_95_description": "You can always look at your location on a map of the Solar system during the flight. Press <color=#E4F2FF>{0}</color> to open it.",
+   "tutorial_95_goal": "Open the map of Solar system.",   
+      
+   "tutorial_100_name": "Our home",
+   "tutorial_100_description": "This is a map of the Solar system. Now you are on planet Earth, and your location is marked with a green icon on it. You can move the camera and zoom just like you did it in the Assembly shop. You can switch to another celestial body by double clicking on it. Close the map when you are ready by pressing <color=#E4F2FF>{0}</color> again.",
+   "tutorial_100_goal": "Close the map.",
+
+   "tutorial_105_name": "Flight preparations 1/2",
+   "tutorial_105_description": "I will give you some tips before flight.\n\n<color=#E4F2FF>Firstly</color>, when you fly in the low atmosphere (altitude up to 30 km), try to keep the speed less than 250-300 m/s, otherwise you will lose a lot of energy on air friction and the rocket can become uncontrollable.",
+   
+   "tutorial_106_name": "Flight preparations 2/2",
+   "tutorial_106_description": "<color=#E4F2FF>Secondly</color>, track the rocket's orientation to the planet using Artificial Horizon. It's a ball on the right with some marks on it. Remember, its blue side indicates the sky and its red side indicates the ground. The yellow dot in the middle is the longitudinal axis of your ship. \n\nThis may sound difficult right now, but once you've made a few flights, you'll figure it out. There are a few more useful parameters about the rocket's state below Horizon.",
+  
+
+   "tutorial_110_name": "To the starts!",
+   "tutorial_110_description": "Set the thrust (<color=#E4F2FF>{0}</color>) to 100% and then activate stage with engines (<color=#E4F2FF>{1}</color>).",
+   "tutorial_110_goal": "Turn on engines.",  
+
+   "tutorial_200_name": "Some final words",
+   "tutorial_200_description": "That's all I wanted to tell you at this moment. \n\nI gave you access to all rocket parts in the Assembly Shop. Also you can find a list of goals in the Flight Control Center (big building on the left), that you can try to accomplish while waiting for the next updates.<color=#E4F2FF>\n\nThat's it. Thank you for your support and your interest in the game!</color>",
+
+
+   "tutorial_33_name": "I'm flying!",
+   "tutorial_33_description": "You can use <color=#E4F2FF>{0}</color>, <color=#E4F2FF>{1}</color>, <color=#E4F2FF>{2}</color> and <color=#E4F2FF>{3}</color> to rotate the rocket. Just remember that rocket is a very heavy vehicle and it takes some time to rotate it even a little bit.",
+   "tutorial_33_goal": "Fly until you run out of fuel and crash a rocket.",
+    
+   "tutorial_34_name": "It's not over yet",
+   "tutorial_34_description": "The test of this rocket design was successfully completed. You can improve it now to fly higher, further and faster. Press <color=#E4F2FF>{0}</color> and return to the assembly shop.",
+   "tutorial_34_goal": "Return to the assembly shop.",
+
+
+   "tutorial_115_name": "Important height",
+   "tutorial_115_description": "Let's practice and try to reach an orbit. Fly upwards until you reach an altitude of <color=#E4F2FF>30 km</color>. You can speed up the time so that this moment comes faster. Why this altitude? Because the atmospheric pressure is low enough there, so we can start a gravity maneuver.",
+   "tutorial_115_goal": "Reach an altitude of 30km.",
+
+   "tutorial_120_name": "he Maneuver",
+   "tutorial_120_description": "Press and hold <color=#E4F2FF>{0}</color> to start turning the rocket on the east. This will be not easy, but do not give up!",
+   "tutorial_120_goal": "Turn the rocket 60 degrees east.",
+
+   "tutorial_125_name": "Patience",
+   "tutorial_125_description": "Now set engines throttle to 0, using <color=#E4F2FF>{0}</color> or by pressing <color=#E4F2FF>{1}</color>. The rocket has gained enough speed to exit the atmosphere at inertia alone.",
+   "tutorial_125_goal": "Turn off engines.",
+
+   "tutorial_130_name": "Out of the atmosphere",
+   "tutorial_130_description": "In reality, the Earth's atmosphere has no clear boundary. In this game, I chose an altitude of <color=#E4F2FF>110 kilometres</color> as the boundary. As soon as you cross this boundary, the pressure becomes 0 and your spacecraft no longer loses energy for friction against the air. As I said earlier, we should have enough inertia to bring the rocket in outer space. We just have to wait a little bit.",
+   "tutorial_130_goal": "Reach an altitude of 110km.",
+
+   "tutorial_135_name": "Just a little bit more.",
+   "tutorial_135_description": "Perfect! We're in outer space. Turn the rocket on an extra <color=#E4F2FF>20 degrees</color> east.",
+   "tutorial_135_goal": "Turn the rocket on extra 20 degrees east.",  
+   
+   "tutorial_140_name": "Just do it",
+   "tutorial_140_description": "Now set the full throttle for the engines again (<color=#E4F2FF>{0}</color>).\n\nWhen the fuel in the current stage runs out, press <color=#E4F2FF>{1}</color> to activate the decoupler and then again <color=#E4F2FF>{1}</color> to turn on engines on the next stage.",
+   "tutorial_140_goal": "Wait until all the fuel runs out.",
+
+   "tutorial_145_name": "So, what now?",
+   "tutorial_145_description": "Let's see what we got this time. Open the map (<color=#E4F2FF>{0}</color>).",
+   "tutorial_145_goal": "Open the map.",
+
+   "tutorial_150_name": "Failure is a step towards mastery",
+   "tutorial_150_description": "We almost reached an orbit around Earth! We have not enough speed. Perhaps, we should just add more fuel next time... But you'll try to do it yourself. Wait until rocket will fall back or press <color=#E4F2FF>{0}</color> and return to the space center to complete this tutorial.",
+   "tutorial_150_goal": "Return to the space center.",
+
+   "tutorial_114_name": "Something went wrong?",
+   "tutorial_114_description": "I can see that the rocket crashed. It wasn't part of the original plan. You can go back to the <color=#E4F2FF>assembly shop</color> and launch this rocket again to get through this tutorial part again, or go back to the <color=#E4F2FF>space center</color> to skip it completely.",
+}
